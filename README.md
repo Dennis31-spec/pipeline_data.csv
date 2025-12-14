@@ -1,2 +1,13 @@
-# pipeline_data.csv
-Adds simulated raw sales pipeline data. This CSV file represents an export from a CRM, containing key fields like deal stage, amount, and time spent in stage, necessary for pipeline health analysis.
+Deal_ID,Stage,Amount,Stage_Entry_Date,Stage_Days
+D-101,Discovery,10000,2024-10-01,15
+D-102,Discovery,15000,2024-09-15,30
+D-103,Proposal,5000,2024-11-01,10
+D-104,Negotiation,25000,2024-10-20,25
+D-105,Discovery,10000,2024-11-05,5
+D-106,Closed Won,20000,2024-09-01,45
+D-107,Closed Lost,10000,2024-08-10,60
+D-108,Proposal,5000,2024-11-05,5
+D-109,Negotiation,15000,2024-10-25,20
+D-110,Closed Won,30000,2024-10-01,30
+D-111,Discovery,5000,2024-11-10,1
+D-112,Closed Lost,25000,2024-07-01,75
